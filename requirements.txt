@@ -1,0 +1,8 @@
+requests==2.31.0          # For API calls (NewsAPI, etc.)
+python-dotenv==1.0.0      # Load environment variables (.env)
+discord-webhook==0.17.0    # Discord alerts (or use `python-telegram-bot` for Telegram)
+transformers==4.30.0      # Optional: NLP severity classification (Hugging Face)
+spacy==3.5.0              # Optional: Advanced NLP
+beautifulsoup4==4.12.0    # Optional: Web scraping if APIs are limited
+flask==2.3.2              # Optional: For future dashboard
+pandas==2.0.3             # Optional: Data analysis/cleaning

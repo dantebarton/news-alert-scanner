@@ -1,0 +1,7 @@
+{
+    "level_1": ["update", "meeting", "announcement"],
+    "level_2": ["protest", "election", "law"],
+    "level_3": ["hack", "outage", "explosion"],
+    "level_4": ["war", "terror", "pandemic"],
+    "level_5": ["nuclear", "WW3", "apocalypse"]
+}
